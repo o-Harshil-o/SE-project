@@ -63,14 +63,6 @@ This application is deployed on Render: [Link](https://hateybazarey.onrender.com
 
 
 
-## Database Seed
-
-* The seed command will put products in database
-* For more information, see code [here](Backend/utils/seeder.js)
-
-```
-npm run seed
-```
 
 # Sample Image
 
