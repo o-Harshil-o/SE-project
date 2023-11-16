@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react'
 import { Link, useNavigate, useParams } from 'react-router-dom'
-import { MDBDataTable } from 'mdbreact'
+import { MDBDataTable } from 'mdbreact';
 
 import {MetaData, Loader} from '../../components/allComponents'
 import Sidebar from './Sidebar'
