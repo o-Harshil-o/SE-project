@@ -4,7 +4,7 @@ Made by
   - 21120 - Harshil Deep Singh (https://github.com/o-Harshil-o)
   - 21129 - Mehul Kothari (https://github.com/Mehul-k123)
   - 21138 - Rhythm Kothari (https://github.com/KothariRhythm)
-  - 21144 - Shashank Baheti 
+  - 21144 - Shashank Baheti (https://github.com/shashankbaheti8)
   - 21145 - Shivang Shankar Dube (https://github.com/Practicecomer)
 
 ## Demo
