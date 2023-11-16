@@ -1,8 +1,6 @@
 import { useState, useEffect } from "react";
 import { Link, useNavigate } from "react-router-dom";
-
 import { Loader, MetaData } from "../../../allComponents";
-
 import { useDispatch, useSelector } from "react-redux";
 import { register, clearErrors } from "../../../../actions/userActions";
 
