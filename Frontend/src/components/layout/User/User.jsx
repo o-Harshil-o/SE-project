@@ -13,7 +13,7 @@ import "../Header/Header.css";
 const User = () => {
   let loginUser = false;
   const [profileOpen, setProfileOpen] = useState(false);
-
+  
   const close = () => {
     setProfileOpen(null);
   };
