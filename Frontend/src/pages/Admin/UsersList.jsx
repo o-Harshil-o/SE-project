@@ -5,6 +5,7 @@ import { MDBDataTable } from "mdbreact";
 import { MetaData, Loader } from "../../components/allComponents";
 import Sidebar from "./Sidebar";
 
+
 import { Toast, toast } from "react-hot-toast";
 import { useDispatch, useSelector } from "react-redux";
 import { allUsers, clearErrors, deleteUser } from "../../actions/userActions";
