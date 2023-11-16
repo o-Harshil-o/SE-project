@@ -14,6 +14,7 @@ import {
 import { UPDATE_PROFILE_RESET } from "../../../../constants/userConstants";
 import { toast } from "react-hot-toast";
 
+
 const Updateprofile = () => {
   const [name, setName] = useState("");
   const [email, setEmail] = useState("");
