@@ -11,7 +11,7 @@ Full-Stack Ecommerce with Admin Dashboard & stripe Payment Gateway
 This application is deployed on Render: [Link](https://hateybazarey.onrender.com) 
 
 
-## 🖥️ Tech Stack
+## Tech Stack
 **Frontend:**
 
 ![reactjs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
@@ -40,7 +40,7 @@ This application is deployed on Render: [Link](https://hateybazarey.onrender.com
 
 
 
-## 🚀 Features
+## Features
 - custom title on each page
 - auto login
 - Login/Signup User Account
