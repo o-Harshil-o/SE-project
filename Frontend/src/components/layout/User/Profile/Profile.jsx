@@ -1,7 +1,6 @@
 import { Link } from "react-router-dom";
 import { useSelector } from "react-redux";
 import { MetaData, Loader } from "../../../allComponents";
-
 import "./Profile.css";
 const Profile = () => {
   const { user, loading } = useSelector((state) => state.auth);
