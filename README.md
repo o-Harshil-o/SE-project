@@ -72,15 +72,12 @@ This application is deployed on Render: [Link](https://hateybazarey.onrender.com
 npm run seed
 ```
 
-# Speed checking
+# Sample Images
 
 <table>
+ 
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/65649115/218567761-fbeda72a-754e-4d28-ae08-c83f9360485e.png" /></td>
-    <td><img src="https://user-images.githubusercontent.com/65649115/218567770-f7e98ad8-bdfa-4552-ab08-effcf3c95643.png" alt="mockups" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://user-images.githubusercontent.com/65649115/218567774-c4036d4c-12c6-400d-b278-c243b600c700.png" /></td>
+
     <td><img src="https://user-images.githubusercontent.com/65649115/221517641-e93cf24f-9dda-4fe7-87fc-53054aeb17d2.png" /></td>
   </tr>
 </table>
