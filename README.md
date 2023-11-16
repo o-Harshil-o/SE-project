@@ -36,8 +36,6 @@ This application is deployed on Render: [Link](https://hateybazarey.onrender.com
 
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
-**Image Management:** [Cloudinary](https://cloudinary.com/)
-**Mail Service:** [mailtrap](https://mailtrap.io/)
 
 
 
