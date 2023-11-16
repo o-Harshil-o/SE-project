@@ -5,6 +5,7 @@ Made by
   - 21129 - Mehul Kothari
   - 21138 - Rhythm Kothari
   - 21144 - Shashank Baheti
+  - 21145 - Shivang Shankar Dube
 
 ## Demo
 [This application is deployed on Render Please check it out : 😀 smile](https://hateybazarey.onrender.com) 
