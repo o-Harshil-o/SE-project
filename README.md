@@ -6,7 +6,7 @@ Made by
   - 21138 - Rhythm Kothari (https://github.com/KothariRhythm)
   - 21144 - Shashank Baheti (https://github.com/shashankbaheti8)
   - 21145 - Shivang Shankar Dube (https://github.com/Practicecomer)
-
+  
 ## Demo
 This application is deployed on Render: [Link](https://hateybazarey.onrender.com) 
 
