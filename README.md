@@ -3,7 +3,7 @@ Full-Stack Ecommerce with Admin Dashboard & stripe Payment Gateway
 Made by 
   - 21120 - Harshil Deep Singh (https://github.com/o-Harshil-o)
   - 21129 - Mehul Kothari
-  - 21138 - Rhythm Kothari
+  - 21138 - Rhythm Kothari (https://github.com/KothariRhythm)
   - 21144 - Shashank Baheti
   - 21145 - Shivang Shankar Dube
 
