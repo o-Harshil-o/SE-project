@@ -1,6 +1,6 @@
 # Hatey-Bazarey-MERN
 Full-Stack Ecommerce with Admin Dashboard & stripe Payment Gateway
-Made by 
+-Made by 
   - 21120 - Harshil Deep Singh (https://github.com/o-Harshil-o)
   - 21129 - Mehul Kothari (https://github.com/Mehul-k123)
   - 21138 - Rhythm Kothari (https://github.com/KothariRhythm)
