@@ -1,7 +1,8 @@
 # Hatey-Bazarey-MERN
 Full-Stack Ecommerce with Admin Dashboard & stripe Payment Gateway
 Made by 
-  - 21120 - Harshil
+  - 21120 - Harshil Deep Singh
+  - 21129 - Mehul Kothari
 
 ## Demo
 [This application is deployed on Render Please check it out : 😀 smile](https://hateybazarey.onrender.com) 
