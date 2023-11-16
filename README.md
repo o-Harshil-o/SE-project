@@ -8,7 +8,7 @@ Made by
   - 21145 - Shivang Shankar Dube (https://github.com/Practicecomer)
 
 ## Demo
-[This application is deployed on Render: ](https://hateybazarey.onrender.com) 
+This application is deployed on Render: [](https://hateybazarey.onrender.com) 
 
 
 ## 🖥️ Tech Stack
