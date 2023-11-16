@@ -2,7 +2,6 @@ import { Link, useNavigate } from "react-router-dom";
 import { MetaData } from "../../../allComponents";
 
 import { RiLockPasswordLine } from "react-icons/ri";
-
 import { useDispatch, useSelector } from "react-redux";
 import { clearErrors, updatePassword } from "../../../../actions/userActions";
 import { UPDATE_PASSWORD_RESET } from "../../../../constants/userConstants";
