@@ -72,7 +72,7 @@ This application is deployed on Render: [Link](https://hateybazarey.onrender.com
 npm run seed
 ```
 
-# Sample Images
+# Sample Image
 
 <table>
   <tr>
